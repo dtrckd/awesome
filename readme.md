@@ -22,7 +22,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 
 ## Awesome Search
 
-- [Search](https://awesomelists.top/) 
+- [Search](https://awesomelists.top/)   ✨
 
 
 ## Table of Contents
